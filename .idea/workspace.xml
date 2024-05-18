@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8451736a-7cfe-4426-a7c4-26acdf319bea" name="Changes" comment="Index - Commit IV">
+    <list default="true" id="8451736a-7cfe-4426-a7c4-26acdf319bea" name="Changes" comment="Index - Commit V - Update Resume">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/resume.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/resume.min.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
@@ -115,7 +115,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715932545833</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Index - Commit V - Update Resume">
+      <option name="closed" value="true" />
+      <created>1716033577689</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1716033577689</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -135,6 +143,7 @@
     <MESSAGE value="Index - Commit II" />
     <MESSAGE value="Index - Commit III" />
     <MESSAGE value="Index - Commit IV" />
-    <option name="LAST_COMMIT_MESSAGE" value="Index - Commit IV" />
+    <MESSAGE value="Index - Commit V - Update Resume" />
+    <option name="LAST_COMMIT_MESSAGE" value="Index - Commit V - Update Resume" />
   </component>
 </project>

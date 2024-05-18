@@ -1,5 +1,5 @@
 body {
-  font-family: "Open Sans", serif;
+  font-family: "Optima", sans-serif;
   padding-top: 54px;
   color: #868e96;
 }
@@ -16,7 +16,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Saira Extra Condensed", serif;
+  font-family: "Optima", sans-serif;
   font-weight: 700;
   text-transform: uppercase;
   color: #343a40;
@@ -31,7 +31,7 @@ h2 {
 .subheading {
   text-transform: uppercase;
   font-weight: 500;
-  font-family: "Saira Extra Condensed", serif;
+  font-family: "Optima", sans-seri;
   font-size: 1.35rem;
 }
 .list-social-icons a {
@@ -157,6 +157,12 @@ button:hover {
   border-right: 0.15em solid transparent; /* The typwriter cursor */
 
   margin: 0 auto; /* Gives that scrolling effect as the typing happens */
+}
+
+.text-block {
+    display: flex;
+    flex-direction: column;
+    text-align: justify;
 }
 
 
